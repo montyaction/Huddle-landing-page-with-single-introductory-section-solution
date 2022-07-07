@@ -32,17 +32,15 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/montyaction/Huddle-landing-page-with-single-introductory-section-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://helpful-monstera-dc0efd.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+- SCSS
+- Resposive
 
 ### Continued development
 For future projects I need to focus on using more advanced CSS to create effects.
